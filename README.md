@@ -368,6 +368,8 @@ sns.scatterplot(x,np.log(y))
 sns.regplot(x,np.log(y))
 sns.regplot(x,np.log(y))
 sns.regplot(x,np.log(y))
+![image](https://github.com/17saravanan/DAC_phase1/assets/146808356/5e5a1f02-5364-4e63-b24f-cf9f6d1ec0a3)
+
 
 ## Creating Visualizations in IBM Cognos
 
@@ -425,6 +427,7 @@ sns.regplot(x,np.log(y))
 This project was a collaborative effort involving the following team members and contributors:
 
 **Sample**
+![image](https://github.com/17saravanan/DAC_phase1/assets/146808356/97eeb87d-3fea-4d73-87e9-06c22726ba58)
 
 
 
